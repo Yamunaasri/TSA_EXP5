@@ -42,9 +42,11 @@ plt.show()
 
 ### OUTPUT:
 FIRST FIVE ROWS:
+
 ![image](https://github.com/Yamunaasri/TSA_EXP5/assets/115707860/9938f6d6-cdf7-4f66-a66e-77d8f5201da0)
 
 PLOTTING THE DATA:
+
 ![image](https://github.com/Yamunaasri/TSA_EXP5/assets/115707860/ca47cafb-fdb4-4182-9cb2-8e5104eda1d5)
 
 SEASONAL PLOT REPRESENTATION :
